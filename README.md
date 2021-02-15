@@ -1,6 +1,7 @@
 # NLP-Deeplearning
 
 ## NLP on Disaster Tweets##
+Kaggle team EMMANIS
 
 *This project is using differents deeplearning approach to classifie disaster tweets from others.*
 
